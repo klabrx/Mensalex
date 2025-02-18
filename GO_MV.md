@@ -19,7 +19,7 @@ Die Einberufung der MV richtet sich nach der Satzung. Die Einladung muss Ort und
 4. Die Protokolle sind binnen drei Monaten nach der Mitgliederversammlung zu erstellen, von dem Versammlungsleiter und dem Protokollführer zu unterzeichnen und den Mitgliedern sodann unverzüglich zugänglich zu machen. Das Protokoll und die Einladung zur Mitgliederversammlung sind insbesondere im vereinsinternen Bereich der Mensa Webseiten zugänglich zu machen. Das Protokoll soll dort text-basiert hinterlegt werden.
 ### § 6 Tagesordnung 
 1. Die Tagesordnung einer ordentlichen MV muss folgende Punkte enthalten:
-   1. Wahl des Versammlungsleiters
+      1. Wahl des Versammlungsleiters
    2. Wahl des Protokollführers
    3. Feststellung der Stimmliste
    4. Genehmigung des Protokolls der letzten MV
