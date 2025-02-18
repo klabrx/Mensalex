@@ -23,21 +23,21 @@ Die Einberufung der MV richtet sich nach der Satzung. Die Einladung muss Ort und
 [^1]: Die Aufzeichnung läuft weiter, nur die Mikrofone werden im Hinblick auf die Aufzeichnung stummgeschaltet. So ist gewährleistet, dass die Zeitreferenz ohne Unterbrechung nicht unterbrochen wird.
 ### § 6 Tagesordnung 
 1. Die Tagesordnung einer ordentlichen MV muss folgende Punkte enthalten:
-   1. Wahl des Versammlungsleiters
-   2. Wahl des Protokollführers
-   3. Feststellung der Stimmliste
-   4. Genehmigung des Protokolls der letzten MV
-   5. Bericht des Vorstandes über das abgelaufene Geschäftsjahr (inkl. Finanzbericht für das laufende Geschäftsjahr)
-   6. Bericht der Finanzprüfer
-   7. Bericht zum Sachstand offener MV-Beschlüsse
-   8. Entlastung der Mitglieder des Vorstandes
-   9. ggf. Bekanntgabe der Wahlergebnisse
-   10. Bericht des Leitenden Psychologen
-   11. Durchführung künftiger Mitgliederversammlungen
-   12. Anträge.
-2. Der VL stellt die in der Einladung vorgeschlagene Tagesordnung zur Diskussion; über Änderungen der Tagesordnung entscheidet die Versammlung mit einfacher Mehrheit.
-3. Die Aufnahme zusätzlicher, im Vorschlag nicht enthaltener Tagesordnungspunkte bedarf der Zweidrittelmehrheit der abgegebenen Stimmen.
-4. Über Satzungsänderungen kann nur abgestimmt werden, wenn sie in dem mit der Einladung übersandten Tagesordnungsvorschlag enthalten waren.
+   1. Wahl von Veranstaltungsleitung und Protokollführung
+   2. Genehmigung des Protokolls der letzten MV
+   3. Rechenschaftsbericht des Vorstands über das vergangene Jahr mit
+      1. Finanzbericht für das laufende Geschäftsjahr
+      2. Sachstand offener MV-Beschlüsse
+   4. Bericht der Finanzprüfer
+   5. Entlastung der Mitglieder des Vorstandes
+   6. ggf. Bekanntgabe der Wahlergebnisse (diese werden unabhangig vom Stand der Tagesordnung aufgerufen, sobald sie vorliegen)
+   7. NSP-Bericht
+   8. Durchführung künftiger Mitgliederversammlungen
+   9. Beschlussanträge, getrennt nach
+      1. Themen, die einen MV-Beschluss rechtlich erfordern (insb. Änderungen von Satzung und Nebenordnungen, Ausschlussanträge)
+      2. Sonstigen Themen
+2. Die Aufnahme zusätzlicher, in der Ladung zur MV nicht enthaltener Tagesordnungspunkte (Tischvorlagen) bedarf der Zweidrittelmehrheit der abgegebenen Stimmen.
+3. Über Satzungsänderungen können nicht Gegenstand einer Tischvorlage sein, sie müssen in der mit der Einladung übersandten Tagesordnung enthalten sein.
 ### § 7 Behandlung von Tagesordnungspunkten (TOP)
 1. Die VL eröffnet für jeden Beratungsgegenstand, der auf der Tagesordnung steht, die Aussprache. Die VL oder eine von ihr damit beauftragte Person berichtet vor Beginn der Aussprache neutral und ohne jede eigene Wertung über Verlauf und Inhalt der Online-Diskussion.
 2. Die Versammlung kann auf Antrag die gemeinsame Beratung und Beschlussfassung von zwei oder mehr Gegenständen beschließen, sofern zwischen ihnen ein Sachzusammenhang besteht.
