@@ -6,9 +6,10 @@ Die GO regelt den Ablauf der Mitgliederversammlungen (MV) von MinD und ergänzt 
 Mitgliederversammlungen sind vereinsöffentlich. Der Vorstand ist berechtigt, Personen, die nicht Mitglieder von MinD sind, als Gäste zur MV zuzulassen, sofern deren Anwesenheit erforderlich ist. Mitglieder anderer nationaler Mensas oder von MInt können als Gäste teilnehmen. Über die Zulassung weiterer Gäste entscheidet die MV mit einfacher Mehrheit.
 ### § 3 Einberufung
 1. Die Einberufung der MV richtet sich nach der Satzung. Die Einladung muss Ort und Beginn der Mitgliederversammlung, die vom Vorstand vorgeschlagene Tagesordnung sowie eine Liste der zur Beschlussfassung anstehenden Anträge enthalten.
-2. Mit dem Zeitpunkt der EInberufung der MV gilt die Aussprache zu den verschiedenen Tagesordnungspunkten als eröffnet. Der Verein stellt hierzu eine geeignete Online-Plattform mit den erforderlichen Modulen zur Verfügung, welche für alle Ms ohne Einschränkung zugänglich ist, und ruft zur Beteiligung an der Vorab-Diskussion auf.
+2. Mit dem Zeitpunkt der EInberufung der MV gilt die Aussprache zu den verschiedenen Tagesordnungspunkten als eröffnet. Der Verein stellt hierzu eine geeignete Online-Plattform mit den erforderlichen Modulen zur Verfügung, welche für alle Ms ohne Einschränkung zugänglich ist, und ruft zur Beteiligung an der Vorab-Diskussion sowie zu Meldungen für die Veranstaltungsleitung und die Protokollführung auf.
 3. Die Einladung, die schriftlich bereitgestellten Berichte, die Texte der zur Beschlussfassung stehenden Anträge sowie ggf. Stellungnehmen von Ms, die von Anträgen betroffen sind, sind an gleicher Stelle zum Download bereitzustellen.
 4. Soweit zeitgleich Wahlen zu Vereinsämtern stattfinden, sind – soweit erforderlich – die Wahlunterlagen der Einladung beizufügen.
+5. 
 ### § 4 Versammlungsleitung 
 1. Der Vorsitzende eröffnet die Sitzung und stellt die Ordnungsmäßigkeit der Einberufung (Form/Frist) und die Stimmberechtigung der Anwesenden fest.
 2. Anschließend führt er die Wahl des Versammlungsleiters (VL) durch. Der VL soll nicht dem Vorstand von MinD angehören oder für ihn kandidieren. Die MV wählt den VL mit einfacher Mehrheit.
