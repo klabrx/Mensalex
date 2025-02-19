@@ -46,6 +46,8 @@ Die Einberufung der MV richtet sich nach der Satzung. Die Einladung muss Ort und
       2. Sofortige Abstimmung ohne Aussprache, oder
       3. Aussprache vor der Abstimmung
       4. ggf. gemeinsame Behandlung mit einem anderen TOP
+   3. Gegenstände, bei denen sich die MV mit einfacher Mehrheit für eine Aussprache vor der Abstimmung entscheidet, werden im ersten Durchlauf übersprungen und ans Ende der Tagesordnung verschoben.
+   4. 
    3. Zu jedem zur Aussprache gelangenden Gegenstand ist eine Redeliste zu beachten, in deren Reihenfolge das Wort erteilt wird. Vor jeder Beschlussfassung ist Mitgliedern, die den Antrag befürworten oder gegen ihn argumentieren wollen, angemessene Gelegenheit zu geben, ihre Standpunkte vorzutragen. Die Redeliste kann aus pragmatischen Gründen durch die Aufstellung der jeweiligen Personen an einem dafür vorgesehenen Mikrofon realisiert werden. EIn angenommener GO-Antrag auf Schluss der Redeliste bewirkt, dass weitere Wortmeldungen weder durch Eintrag und die Redeliste noch durch Aufstellung am Mikrofon möglich sind.
    4. Die VL kann in besonderen Fällen in die Reihenfolge der Redeliste eingreifen, wenn dies für den Gang der Verhandlung förderlich ist.
 2. Nach dem Schluss der Aussprache stellt die VL etwaige Änderungs- und Ergänzungsanträge und anschließend den jeweiligen – ggf. entsprechend geänderten – Antrag zur Abstimmung.
