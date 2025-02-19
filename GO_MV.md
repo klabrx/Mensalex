@@ -3,7 +3,9 @@
 ### § 1 Geltungsbereich
 Die GO regelt den Ablauf der Mitgliederversammlungen (MV) von MinD und ergänzt insoweit die jeweils gültige Satzung. Die Bestimmungen der Satzung haben jeweils Vorrang.
 ### § 2 Öffentlichkeit
-Mitgliederversammlungen sind vereinsöffentlich. Der Vorstand ist berechtigt, Personen, die nicht Mitglieder von MinD sind, als Gäste zur MV zuzulassen, sofern deren Anwesenheit erforderlich ist. Mitglieder anderer nationaler Mensas oder von MInt können als Gäste teilnehmen. Über die Zulassung weiterer Gäste entscheidet die MV mit einfacher Mehrheit.
+1. Mitgliederversammlungen sind vereinsöffentlich.
+2. Der Vorstand ist berechtigt, Personen, die nicht Mitglieder von MinD sind, als Gäste zur MV zuzulassen, sofern deren Anwesenheit erforderlich ist. Mitglieder anderer nationaler Mensas oder von MInt können als Gäste teilnehmen. Über die Zulassung weiterer Gäste entscheidet die MV mit einfacher Mehrheit.
+3. Die Übertragung von Inhalten aus der laufenden MV an Personen, die nicht daran teilnehmen, ist nur zulässig, wenn dies über ein Medium geschieht, welches nur für Vereinsmitglieder zugänglich ist, und wenn die MV der Übertragung mit einfacher Mehrheit zugestimmt hat. 
 ### § 3 Einberufung
 Die Einberufung der MV richtet sich nach der Satzung. Die Einladung muss Ort und Beginn der Mitgliederversammlung, die vom Vorstand vorgeschlagene Tagesordnung sowie eine Liste der zur Beschlussfassung anstehenden Anträge enthalten. Die Einladung, die schriftlich bereitgestellten Berichte und die Texte der zur Beschlussfassung stehenden Anträge sind auf einer Internetplattform des Vereins zum Download bereitzustellen. Soweit zeitgleich Wahlen zu Vereinsämtern stattfinden, sind – soweit erforderlich – die Wahlunterlagen der Einladung beizufügen.
 ### § 4 Eröffnung der Versammlung 
@@ -47,8 +49,8 @@ Die Einberufung der MV richtet sich nach der Satzung. Die Einladung muss Ort und
       3. Aussprache vor der Abstimmung
       4. ggf. gemeinsame Behandlung mit einem anderen TOP
    3. Gegenstände, bei denen sich die MV mit einfacher Mehrheit für eine Aussprache vor der Abstimmung entscheidet, werden im ersten Durchlauf übersprungen und ans Ende der Tagesordnung verschoben.
-   4. 
-   3. Zu jedem zur Aussprache gelangenden Gegenstand ist eine Redeliste zu beachten, in deren Reihenfolge das Wort erteilt wird. Vor jeder Beschlussfassung ist Mitgliedern, die den Antrag befürworten oder gegen ihn argumentieren wollen, angemessene Gelegenheit zu geben, ihre Standpunkte vorzutragen. Die Redeliste kann aus pragmatischen Gründen durch die Aufstellung der jeweiligen Personen an einem dafür vorgesehenen Mikrofon realisiert werden. EIn angenommener GO-Antrag auf Schluss der Redeliste bewirkt, dass weitere Wortmeldungen weder durch Eintrag und die Redeliste noch durch Aufstellung am Mikrofon möglich sind.
+   4. Gegenstände, bei denen die MV mehrheitlich auf Aussprache verzichtet, kommen sofort zur Abstimmung.
+   5. Zu jedem zur Aussprache gelangenden Gegenstand ist eine Redeliste zu beachten, in deren Reihenfolge das Wort erteilt wird. Vor jeder Beschlussfassung ist Mitgliedern, die den Antrag befürworten oder gegen ihn argumentieren wollen, angemessene Gelegenheit zu geben, ihre Standpunkte vorzutragen. Die Redeliste kann aus pragmatischen Gründen durch die Aufstellung der jeweiligen Personen an einem dafür vorgesehenen Mikrofon realisiert werden. EIn angenommener GO-Antrag auf Schluss der Redeliste bewirkt, dass weitere Wortmeldungen weder durch Eintrag und die Redeliste noch durch Aufstellung am Mikrofon möglich sind.
    4. Die VL kann in besonderen Fällen in die Reihenfolge der Redeliste eingreifen, wenn dies für den Gang der Verhandlung förderlich ist.
 2. Nach dem Schluss der Aussprache stellt die VL etwaige Änderungs- und Ergänzungsanträge und anschließend den jeweiligen – ggf. entsprechend geänderten – Antrag zur Abstimmung.
 3. Mit der Abstimmung ist der TOP abgeschlossen.
@@ -66,7 +68,7 @@ Sofern ihm dies aufgrund der zeitgerechten Abwicklung der Tagesordnung angeraten
   5. Vertagung eines Verhandlungsgegenstandes: Der Gegenstand wird auf einen späteren Zeitpunkt verschoben (ggf. auch innerhalb der laufenden MV)
   6. Sitzungsunterbrechung
   7. Schluss der Debatte bzw. Verzicht auf Aussprache: Entspricht dem Antrag auf sofortige Abstimmung
-  8. Schluss der Rednerliste: Keine weiteren neuen Wortmeldungen mehr
+  8. Schluss der Rednerliste: Keine neuen Wortmeldungen mehr
   9. Begrenzung der Redezeit
   10. Verbindung der Beratung
   11. Besondere Form der Abstimmung: Von der vereinbarten Form der Abstimmung soll abgewichen werden
@@ -83,5 +85,5 @@ werden, soweit sich hiergegen kein Widerspruch erhebt. Wird eine Mitgliederversa
 1. Beschlüsse der MV sind durch die MV hinsichtlich ihrer Umsetzung zu prüfen. Der Vorstand liefert zu diesem Zweck einen Sachstandsbericht.
 2. Beschlüsse, die nicht als abgeschlossen gelten, sind auf der nachfolgenden MV neu zu betrachten.
 ### § 13 Schlussbestimmungen
-1. Sofern diese Geschäftsordnung eine Verfahrensfrage nicht eindeutig regelt, entscheidet der VL den Gang der Handlung.
-2. Abweichungen von der GO sind nur zulässig, wenn kein Teilnehmer widerspricht.
+1. Sofern diese Geschäftsordnung eine Verfahrensfrage nicht eindeutig regelt, entscheidet die VL den Gang der Handlung.
+2. Abweichungen von der GO sind nur zulässig, wenn die MV einem dahingehenden Verfahrensantrag mit einfacher Mehrheit zustimmt bzw. wenn auf entsprechende Ankündigung der VL keine Gegenrede erhoben wird.
