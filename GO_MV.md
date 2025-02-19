@@ -39,33 +39,37 @@ Die Einberufung der MV richtet sich nach der Satzung. Die Einladung muss Ort und
 2. Die Aufnahme zusätzlicher, in der Ladung zur MV nicht enthaltener Tagesordnungspunkte (Tischvorlagen) bedarf der Zweidrittelmehrheit der abgegebenen Stimmen.
 3. Über Satzungsänderungen können nicht Gegenstand einer Tischvorlage sein, sie müssen in der mit der Einladung übersandten Tagesordnung enthalten sein.
 ### § 7 Behandlung von Tagesordnungspunkten (TOP)
-1. Die VL eröffnet für jeden Beratungsgegenstand, der auf der Tagesordnung steht, die Aussprache. Die VL oder eine von ihr damit beauftragte Person berichtet vor Beginn der Aussprache neutral und ohne jede eigene Wertung über Verlauf und Inhalt der Online-Diskussion.
-2. Die Versammlung kann auf Antrag die gemeinsame Beratung und Beschlussfassung von zwei oder mehr Gegenständen beschließen, sofern zwischen ihnen ein Sachzusammenhang besteht.
-3. Sofern sie dies wünschen, erhalten zu den einzelnen Anträgen die Antragstellenden zur Begründung und der Vorstand zur Stellungnahme das Wort.
-4. Zu jedem zur Abstimmung gelangenden Gegenstand ist eine Redeliste aufzustellen. Zur Aussprache über den Antrag erteilt die VL das Wort in der Reihenfolge der Redeliste. Die Eintragung in die Redeliste wird in der Reihenfolge der Wortmeldungen vorgenommen. Auf Verlangen eines Mitglieds und bei GO-Antrag auf Schluss der Redeliste gibt die VL die auf der Redeliste stehenden Wortmeldungen bekannt. Vor jeder Beschlussfassung ist Mitgliedern, die den Antrag befürworten oder gegen ihn argumentieren wollen, angemessene Gelegenheit zu geben, ihre Standpunkte vorzutragen.
-5. Die VL kann in besonderen Fällen Teilnehmenden außer der Reihe das Wort erteilen, wenn dies für den Gang der Verhandlung förderlich ist.
-6. Nach dem Schluss der Aussprache stellt die VL etwaige Änderungs- und Ergänzungsanträge und anschließend den jeweiligen – ggf. entsprechend geänderten – Antrag zur Abstimmung.
-7. Mit der Abstimmung ist der TOP abgeschlossen.
+1. Um die zügige Erledigung möglichst aller auf der Tagesordnung befindlicher Tagesordnungspunkte sicherzustellen, kann die VL zu jedem Zeitpunkt, insbesondere auch schon zu Beginn der MV, einen Schnelldurchlauf durch die Tagesordnung durchführen. Dabei wird wie folgt verfahren:
+   1. Nach Aufruf des TOPs berichtet die VL oder eine von ihr beauftragte Person neutral und ohne eigene Wertung über den Verlauf der Vorabdiskussion.
+   2. Vorstand und Antragsteller können ihre abschließende Stellungnahme zum TOP abgeben. Die Redezeit dazu ist auf jeweils eine Minute begrenzt und soll insbesondere eine Aussage dazu enthalten wie mit dem TOP verfahren werden soll:
+      1. Nichtbefassung, oder
+      2. Sofortige Abstimmung ohne Aussprache, oder
+      3. Aussprache vor der Abstimmung
+      4. ggf. gemeinsame Behandlung mit einem anderen TOP
+   3. Zu jedem zur Aussprache gelangenden Gegenstand ist eine Redeliste zu beachten, in deren Reihenfolge das Wort erteilt wird. Vor jeder Beschlussfassung ist Mitgliedern, die den Antrag befürworten oder gegen ihn argumentieren wollen, angemessene Gelegenheit zu geben, ihre Standpunkte vorzutragen. Die Redeliste kann aus pragmatischen Gründen durch die Aufstellung der jeweiligen Personen an einem dafür vorgesehenen Mikrofon realisiert werden. EIn angenommener GO-Antrag auf Schluss der Redeliste bewirkt, dass weitere Wortmeldungen weder durch Eintrag und die Redeliste noch durch Aufstellung am Mikrofon möglich sind.
+   4. Die VL kann in besonderen Fällen in die Reihenfolge der Redeliste eingreifen, wenn dies für den Gang der Verhandlung förderlich ist.
+2. Nach dem Schluss der Aussprache stellt die VL etwaige Änderungs- und Ergänzungsanträge und anschließend den jeweiligen – ggf. entsprechend geänderten – Antrag zur Abstimmung.
+3. Mit der Abstimmung ist der TOP abgeschlossen.
 ### § 8 Begrenzung der Redezeit
 Sofern ihm dies aufgrund der zeitgerechten Abwicklung der Tagesordnung angeraten erscheint, schlägt der VL eine Begrenzung der Redezeit vor und stellt sie zur Abstimmung. Die MV entscheidet darüber mit einfacher Mehrheit.
 ### § 9 Anträge zum Verfahren und zur Geschäftsordnung (GO-Anträge)
-1. GO-Anträge können jederzeit gestellt werden. Der VL kann verfügen, dass GO-Anträge schriftlich einzureichen sind.
-2. Über GO-Anträge ist außerhalb der Rednerliste sofort abzustimmen, nachdem der Antragsteller und ein eventueller Gegenredner gesprochen haben.
+1. GO-Anträge können jederzeit gestellt werden. Die VL kann verfügen, dass GO-Anträge schriftlich einzureichen sind, sowie dass beabsichtigte GO-Anträge durch ein Miglied der VL vorab auf Zulässigkeit geprüft werden.
+2. Über GO-Anträge ist außerhalb der Rednerliste sofort abzustimmen, nachdem für und ggf. gegen den Antrag wurde.
 3. Teilnehmer, die bereits zur Sache gesprochen haben, können einen GO-Antrag auf Schluss der Debatte oder Schluss der Rednerliste nicht stellen.
 4. Folgende Anträge zur GO sind zulässig:
-- Antrag auf
-  1. Vertagung der Versammlung
-  2. Absetzen des Verhandlungsgegenstandes von der Tagesordnung
-  3. Übergang zur Tagesordnung
-  4. Nichtbefassung mit einem Antrag
-  5. Vertagung eines Verhandlungsgegenstandes
+  1. Vertagung der Versammlung: Die MV wird an dieser Stelle beendet und zu einem späteren Zeitpunkt an der gleichen Stelle der tagesordnung fortgesetzt.
+  2. Absetzen des Verhandlungsgegenstandes von der Tagesordnung: Der Beschlussantrag wird nicht weiter behandelt, sondern zurück in die Beratung verwiesen.
+  3. Übergang zur Tagesordnung: Mit der Tagesordnung wird wie geplant fortgefahren
+  4. Nichtbefassung mit einem Antrag: Ein Antrag wird nicht behandelt, also weder beschlossen noch abgelehnt.
+  5. Vertagung eines Verhandlungsgegenstandes: Der Gegenstand wird auf einen späteren Zeitpunkt verschoben (ggf. auch innerhalb der laufenden MV)
   6. Sitzungsunterbrechung
-  7. Schluss der Debatte bzw. Verzicht auf Aussprache
-  8. Schluss der Rednerliste
+  7. Schluss der Debatte bzw. Verzicht auf Aussprache: Entspricht dem Antrag auf sofortige Abstimmung
+  8. Schluss der Rednerliste: Keine weiteren neuen Wortmeldungen mehr
   9. Begrenzung der Redezeit
   10. Verbindung der Beratung
-  11. Besondere Form der Abstimmung
-  12. (Wiederholung der) Auszählung der Stimmen
+  11. Besondere Form der Abstimmung: Von der vereinbarten Form der Abstimmung soll abgewichen werden
+  12. (Wiederholung der) Auszählung der Stimmen: Die korrekte Auszählung wird angezweifelt
+5. GO-Anträge können zu Beginn der MV als Verfahrensanträge gestellt werden und wirken sich dann auf alle in der Folge behandelten Gegenstände aus.
 ### § 10 Abstimmungen 
 Abstimmungen erfolgen in der Regel offen durch Handzeichen. Auf Verlangen mindestens eines anwesenden Stimmberechtigten muss geheim abgestimmt werden. Auf Vorschlag des Versammlungsleiters kann über mehrere Anträge in einem Vorgang zusammengefasst abgestimmt 
 werden, soweit sich hiergegen kein Widerspruch erhebt. Wird eine Mitgliederversammlung als Online- oder Hybrid-Versammlung abgehalten, werden Abstimmungen über eine geeignete Abstimmungssoftware abgewickelt.
