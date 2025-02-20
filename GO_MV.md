@@ -78,8 +78,11 @@ Sofern ihm dies aufgrund der zeitgerechten Abwicklung der Tagesordnung angeraten
   12. (Wiederholung der) Auszählung der Stimmen: Die korrekte Auszählung wird angezweifelt
 5. GO-Anträge können zu Beginn der MV als Verfahrensanträge gestellt werden und wirken sich dann auf alle in der Folge behandelten Gegenstände aus.
 ### § 10 Abstimmungen 
-Abstimmungen erfolgen in der Regel offen durch Handzeichen. Auf Verlangen mindestens eines anwesenden Stimmberechtigten muss geheim abgestimmt werden. Auf Vorschlag des Versammlungsleiters kann über mehrere Anträge in einem Vorgang zusammengefasst abgestimmt 
-werden, soweit sich hiergegen kein Widerspruch erhebt. Wird eine Mitgliederversammlung als Online- oder Hybrid-Versammlung abgehalten, werden Abstimmungen über eine geeignete Abstimmungssoftware abgewickelt.
+1. Abstimmungen erfolgen in der Regel offen durch Handzeichen.
+2. Auf Verlangen mindestens eines anwesenden Stimmberechtigten muss geheim abgestimmt werden.
+3. Auf Vorschlag des Versammlungsleiters kann über mehrere Anträge in einem Vorgang zusammengefasst abgestimmt werden, soweit sich hiergegen kein Widerspruch erhebt.
+4. Wird eine Mitgliederversammlung als Online- oder Hybrid-Versammlung abgehalten, werden Abstimmungen über eine geeignete Abstimmungssoftware abgewickelt.
+5. Auf Veranlassung der Versammlungsleitung und bei Verlangen einer geheimen Abstimmung können für Abstimmungen elektronische Stimmgeräte verwendet werden. Durch entsprechende Auswahl des Abstimmungssystems und eine transparente Abwicklung muss sichergestellt sein, dass die Stimmen nicht einzelnen Mitgliedern zugeordnet werden können, das Verfahren nicht manipulierbar und eine spätere Überprüfung der Abstimmungsergebnisse durch die Mitglieder möglich ist.
 ### § 11 Verschiedenes
 1. Jeder Teilnehmer ist berechtigt, zum Tagesordnungspunkt „Verschiedenes“ Beiträge anzumelden. Der VL kann verfügen, dass die Anmeldungen unter Angabe eines den Inhalt beschreibenden Stichwortes schriftlich einzureichen sind.
 2. Der VL ruft die jeweiligen Beiträge auf und eröffnet gegebenenfalls die Diskussion.
